@@ -30,7 +30,7 @@ $(function () {
   } else {
     window.canvasRightPadding = 80;
   }
-  window.sliderToJsonDataGap = 13;
+  window.sliderToJsonDataGap = 12;
   window.monthValues = [
     "Sep-19",
     "Oct-19",
