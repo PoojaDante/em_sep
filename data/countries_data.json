@@ -1,0 +1,7474 @@
+[
+  {
+    "name": "China",
+    "flag_url": "data/flags/china.png",
+    "country_image_url": "data/countries_images/china.png",
+    "composite_index_score": {
+        "Sep-19": 65.4,
+      "Oct-19": 56.9,
+      "Nov-19": 62.4,
+      "Dec-19": 62.5,
+      "Jan-20": 43.7,
+      "Feb-20": 40.3,
+      "Mar-20": 64,
+      "Apr-20": 86.5,
+      "May-20": 76.9,
+      "Jun-20": 56.9,
+      "Jul-20": 84.9,
+      "Aug-20": 81.4
+
+  },
+
+    "datasets": {
+        "real_gdp_growth": [
+  {
+    "timestamp": "Jul-18",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -6.8
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -6.8
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -6.8
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 3.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": "--"
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": "--"
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 51.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 51.3
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 50.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 50.2
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 50
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 49.4
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 49.5
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 49.2
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 50.5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 50.1
+  },
+  {
+    "timestamp": "May-19",
+    "date": 49.4
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 49.4
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 49.7
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 49.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 49.8
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 49.3
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 50.2
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 50.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 50
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 35.7
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 52
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 50.8
+  },
+  {
+    "timestamp": "May-20",
+    "date": 50.6
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 50.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 51.1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 51
+  }],
+
+  "export_growth": [
+  {
+    "timestamp": "Jul-18",
+    "date": 11.6
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 9.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 13.9
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 14.3
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -4.6
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 9.3
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -20.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 14
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -2.7
+  },
+  {
+    "timestamp": "May-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 3.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -3.2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 8.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -17.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -17.2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -6.6
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 3.4
+  },
+  {
+    "timestamp": "May-20",
+    "date": -3.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 0.5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 7.2
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 9.5
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 2.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 1.9
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 1.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 2.5
+  },
+  {
+    "timestamp": "May-19",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 3
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 4.9
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 5.4
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 3.3
+  },
+  {
+    "timestamp": "May-20",
+    "date": 2.4
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 2.4
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 17.9
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 16.3
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 16
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 16.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 16.3
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 16.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 17.2
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 19.8
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 19.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 18.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 18.6
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 18.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 18.5
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 18.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 18.2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 18.2
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 18
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 17.9
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 18
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 17.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 18.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 19.3
+  },
+  {
+    "timestamp": "May-20",
+    "date": 20
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 19.7
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 19.6
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 19.3
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": -3.8
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -1.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 0.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0
+  },
+  {
+    "timestamp": "May-19",
+    "date": -2.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -2.7
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.8
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -0.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -0.7
+  },
+  {
+    "timestamp": "May-20",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 1.1
+  }],
+
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": -8.8
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -6.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -2.1
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -5.7
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -1.6
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 8.2
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 15.8
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 6
+  },
+  {
+    "timestamp": "May-19",
+    "date": -11.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -3.8
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 5.5
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 3
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 7.8
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -1
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -2.1
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -1.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 6
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 15.3
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 5.9
+  }
+]
+    }
+  },
+  {
+     "name": "India",
+    "flag_url": "data/flags/india.png",
+    "country_image_url": "data/countries_images/india.png",
+    "composite_index_score": {
+      "Sep-19": 49.6,
+      "Oct-19": 62.6,
+      "Nov-19": 54.1,
+      "Dec-19": 49.6,
+      "Jan-20": 54.5,
+      "Feb-20": 74.5,
+      "Mar-20": 51.3,
+      "Apr-20": 28.9,
+      "May-20": 36.4,
+      "Jun-20": 31.1,
+      "Jul-20": 48.5,
+      "Aug-20": 52.8
+    },
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 5.6
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 5.6
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 5.6
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 5.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -23.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": -23.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -23.9
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 52.3
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 51.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 52.2
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 53.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 54
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 53.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 53.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 54.3
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 52.6
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 51.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 52.7
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 52.1
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 52.5
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 51.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 51.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 50.6
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 51.2
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 52.7
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 55.3
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 54.5
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 51.8
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 27.4
+  },
+  {
+    "timestamp": "May-20",
+    "date": 30.8
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 47.2
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 46
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 52
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 14.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 19.1
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -2.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 16.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 11.6
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0.6
+  },
+  {
+    "timestamp": "May-19",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -9.7
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -6.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -6.6
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -1.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -0.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -1.8
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -1.7
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -34.6
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -60.3
+  },
+  {
+    "timestamp": "May-20",
+    "date": -36.5
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -12.4
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -10.2
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -12.7
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 3.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 3.7
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 3.4
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 2
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 3
+  },
+  {
+    "timestamp": "May-19",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 5.5
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 7.4
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 7.6
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 6.6
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 5.8
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 7.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": 6.3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 6.7
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 9.6
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 8.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 9
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 8.8
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 8.9
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 9
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 9.6
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 10.2
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 10.1
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 10.3
+  },
+  {
+    "timestamp": "May-19",
+    "date": 10.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 10.3
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 10.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 10.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 10.7
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 11
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 11.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 11.5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 11.5
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 12.2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 13
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 15.1
+  },
+  {
+    "timestamp": "May-20",
+    "date": 16.5
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 17.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 18.8
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 19
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": -1.4
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -3.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -1.9
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 0
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 2.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0.1
+  },
+  {
+    "timestamp": "May-19",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 0.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -3.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -0.3
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -0.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -0.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -4.1
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -2.4
+  },
+  {
+    "timestamp": "May-20",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 0.4
+  }],
+  
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -4.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -12.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 0
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -2.5
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 7.2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 3.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": -2.4
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": -3.3
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -8.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 3.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -22.9
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -6.8
+  },
+  {
+    "timestamp": "May-20",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 9.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 7.7
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 5.9
+  }
+]
+    }
+  },
+
+  {
+    "name": "Mexico",
+    "flag_url": "data/flags/mexico.png",
+    "country_image_url": "data/countries_images/mexico.png",
+    "composite_index_score": { 
+      "Sep-19": 48.8,
+      "Oct-19": 54,
+      "Nov-19": 34,
+      "Dec-19": 34.4,
+      "Jan-20": 52,
+      "Feb-20": 66,
+      "Mar-20": 39,
+      "Apr-20": 28.8,
+      "May-20": 48.6,
+      "Jun-20": 31.2,
+      "Jul-20": 35,
+      "Aug-20": 43.5
+    },
+
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -1.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": -0.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -0.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -0.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -18.7
+  },
+  {
+    "timestamp": "May-20",
+    "date": -18.7
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -18.7
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 52.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 50.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 51.7
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 50.7
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 49.7
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 49.7
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 50.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 52.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 49.8
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 50.1
+  },
+  {
+    "timestamp": "May-19",
+    "date": 50
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 49.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 49.8
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 49
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 49.1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 50.4
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 48
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 47.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 49
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 50
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 47.9
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 35
+  },
+  {
+    "timestamp": "May-20",
+    "date": 38.3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 38.6
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 40.4
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 41.3
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 14.3
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 10.1
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 11.6
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 12.6
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 6.5
+  },
+  {
+    "timestamp": "May-19",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -1.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -1.4
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -2.9
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -1.7
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -40.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": -56.7
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -12.8
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -8.9
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 4.9
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 4
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 3
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 3
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 3.7
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 2.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 3.6
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 4
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 4.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 5.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 5.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 5.7
+  },
+  {
+    "timestamp": "May-20",
+    "date": 6.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 6.3
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 6.4
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -1.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -5.3
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -0.2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "May-19",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -0.9
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -3.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.6
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -0.2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -18.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -8.3
+  },
+  {
+    "timestamp": "May-20",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -0.3
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 0.9
+  }],
+  
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": 11.6
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -3.8
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -11.9
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 8.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 4.6
+  },
+  {
+    "timestamp": "May-19",
+    "date": -4.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -6.8
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 5.5
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -0.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -24.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -15.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": 8.4
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 7.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 3.1
+  }
+]
+    }
+  },
+  {
+    "name": "Russia",
+    "flag_url": "data/flags/russia.png",
+    "country_image_url": "data/countries_images/russia.png",
+    "composite_index_score": {
+      "Sep-19": 54.1,
+      "Oct-19": 47.2,
+      "Nov-19": 53.3,
+      "Dec-19": 54,
+      "Jan-20": 67,
+      "Feb-20": 53.8,
+      "Mar-20": 51.1,
+      "Apr-20": 71,
+      "May-20": 68.1,
+      "Jun-20": 55.7,
+      "Jul-20": 40.2,
+      "Aug-20": 50
+    },
+
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "May-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -8
+  },
+  {
+    "timestamp": "May-20",
+    "date": -8
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -8
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 48.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 48.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 50
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 51.3
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 52.6
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 51.7
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 50.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 50.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 52.8
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 51.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 49.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 48.6
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 49.3
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 49.1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 46.3
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 47.2
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 45.6
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 47.5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 47.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 48.2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 47.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 31.3
+  },
+  {
+    "timestamp": "May-20",
+    "date": 36.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 49.4
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 48.4
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 51.1
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 37.8
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 28.6
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 26.9
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 31.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 21.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 9.4
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": -4.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 10
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 0.5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "May-19",
+    "date": -11.4
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -11.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": -2.5
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -9
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -9.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -10.2
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -11.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -4.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -4.6
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -17.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -18.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -32.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": -35.3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -25.4
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -29.6
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 3.4
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 3.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 5.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 5.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 3.5
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 3
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 2.4
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 3.1
+  },
+  {
+    "timestamp": "May-20",
+    "date": 3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 3.4
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 3.6
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 23.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 23.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 23.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 23.4
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 23.4
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 23.6
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 30.5
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 29.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 27.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 26.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": 26.5
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 27.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 27
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 27.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 27.2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 27.2
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 27
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 27.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 34.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 33.5
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 31.6
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 32.1
+  },
+  {
+    "timestamp": "May-20",
+    "date": 32.5
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 32.3
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 33.2
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 33.4
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": 0
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -5.8
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -1.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -1.1
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "May-19",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -4.1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -3.6
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -16.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -0.6
+  },
+  {
+    "timestamp": "May-20",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -3.1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -3.1
+  }],
+  
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -5.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 3.4
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 6
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -4.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -4.7
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 3.5
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 2.7
+  },
+  {
+    "timestamp": "May-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 6.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -6.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 4.9
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -5.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -30.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 2.8
+  },
+  {
+    "timestamp": "May-20",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 8.6
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -4.5
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 1.4
+  }
+]
+    }
+  },
+  {
+    "name": "Thailand",
+    "flag_url": "data/flags/thailand.png",
+    "country_image_url": "data/countries_images/thailand.png",
+    "composite_index_score": {
+      "Sep-19": 55.7,
+      "Oct-19": 51.8,
+      "Nov-19": 47.7,
+      "Dec-19": 42.3,
+      "Jan-20": 42.4,
+      "Feb-20": 47.6,
+      "Mar-20": 59.6,
+      "Apr-20": 69.1,
+      "May-20": 64.2,
+      "Jun-20": 39.8,
+      "Jul-20": 47.8,
+      "Aug-20": 51.2
+    },
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 2.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": 2.4
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 2.4
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -2
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -12.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": -12.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -12.2
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 50.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 49.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 50
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 48.9
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 49.8
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 50.3
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 50.2
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 49.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 50.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 51
+  },
+  {
+    "timestamp": "May-19",
+    "date": 50.7
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 50.6
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 50.3
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 50
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 50.6
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 50
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 49.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 50.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 49.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 49.5
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 46.7
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 36.8
+  },
+  {
+    "timestamp": "May-20",
+    "date": 41.6
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 43.5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 45.9
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 49.7
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 7.8
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 6.8
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -4.9
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 8.6
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -1
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -1.6
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": -5.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -2.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": -6.3
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -2.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -3.8
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -1.7
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -4.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -7.4
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -4.5
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 2.1
+  },
+  {
+    "timestamp": "May-20",
+    "date": -22.5
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -23.2
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -11.4
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 0.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -0.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -3
+  },
+  {
+    "timestamp": "May-20",
+    "date": -3.4
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -1.6
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -0.5
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 11
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 9.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 10.2
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 10.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 10
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 10.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 10.8
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 12
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 11.9
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 11.7
+  },
+  {
+    "timestamp": "May-19",
+    "date": 11.5
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 12
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 12
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 12.1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 12.2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 12.3
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 12.2
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 12.4
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 11.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 13.4
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 12.9
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 13.6
+  },
+  {
+    "timestamp": "May-20",
+    "date": 14.7
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 15.3
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 16.1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 16.3
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": -2.4
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -0.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 0.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -1.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -0.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 2.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.6
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -2.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -2.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -1.7
+  },
+  {
+    "timestamp": "May-20",
+    "date": 1.7
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 0.7
+  }],
+  
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": -4.6
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -2.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -2.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 5.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -2.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 4.9
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -4.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -0.4
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -1.9
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -7.7
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -22.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 2.6
+  },
+  {
+    "timestamp": "May-20",
+    "date": 7.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 9.2
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -1.6
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -1.5
+  }
+]
+    }
+  },
+  {
+    "name": "Philippines",
+    "flag_url": "data/flags/philippines.png",
+    "country_image_url": "data/countries_images/philippines.png",
+    "composite_index_score": {
+      "Sep-19": 61.8,
+      "Oct-19": 73.7,
+      "Nov-19": 68.7,
+      "Dec-19": 63.1,
+      "Jan-20": 49.4,
+      "Feb-20": 65.9,
+      "Mar-20": 45.0,
+      "Apr-20": 53.1,
+      "May-20": 47.6,
+      "Jun-20": 43.0,
+      "Jul-20": 52.3,
+      "Aug-20": 48.0 
+    },
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 5.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": 5.4
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 5.4
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 6.3
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 6.3
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 6.3
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -16.5
+  },
+  {
+    "timestamp": "May-20",
+    "date": -16.5
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -16.5
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 50.9
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 51.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 52
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 54
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 54.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 53.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 52.3
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 51.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 51.5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 50.9
+  },
+  {
+    "timestamp": "May-19",
+    "date": 51.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 51.3
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 52.1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 51.9
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 51.8
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 52.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 51.4
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 51.7
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 52.1
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 52.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 39.7
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 31.6
+  },
+  {
+    "timestamp": "May-20",
+    "date": 40.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 49.7
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 48.4
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 47.3
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 1
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -12.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": -6.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.5
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 3.1
+  },
+  {
+    "timestamp": "May-19",
+    "date": 1.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -0.2
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 21.6
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 9.4
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -24.7
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -49.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": -26.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -12.5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -9.6
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 6
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 3
+  },
+  {
+    "timestamp": "May-19",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 1.7
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.8
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 2.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 2.4
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 8.4
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 7.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 7.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 7.3
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 7.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 8.6
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 9.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 9.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 9.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": 9.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 9.3
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 9.2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 9.3
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 9.2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 9.2
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 9.2
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 9.4
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 9.3
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 10.8
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 11.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 13.7
+  },
+  {
+    "timestamp": "May-20",
+    "date": 14.4
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 14.3
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 14.8
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 14.9
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": -0.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 2.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.5
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "May-19",
+    "date": -0.5
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -0.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 0.5
+  },
+  {
+    "timestamp": "May-20",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 1.3
+  }],
+
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -3.2
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -1.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 1.7
+  },
+  {
+    "timestamp": "May-19",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -5.3
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -2.4
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -5.1
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -19.6
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -2.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": 0.6
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 10.6
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -0.6
+  }
+]
+    }
+  },
+  {
+    "name": "Brazil",
+    "flag_url": "data/flags/brazil.png",
+    "country_image_url": "data/countries_images/brazil.png",
+    "composite_index_score": {
+      "Sep-19": 56.4,
+      "Oct-19": 62.4,
+      "Nov-19": 43.6,
+      "Dec-19": 62.2,
+      "Jan-20": 41.2,
+      "Feb-20": 51.5,
+      "Mar-20": 54.0,
+      "Apr-20": 47.9,
+      "May-20": 49.2,
+      "Jun-20": 80.2,
+      "Jul-20": 67.4,
+      "Aug-20": 56.3 
+    },
+
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 0.6
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 0.6
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "May-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 1.2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 1.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 1.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 1.7
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -0.3
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -0.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -0.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -11.4
+  },
+  {
+    "timestamp": "May-20",
+    "date": -11.4
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -11.4
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 50.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 51.1
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 50.9
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 51.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 52.7
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 52.6
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 52.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 53.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 52.8
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 51.5
+  },
+  {
+    "timestamp": "May-19",
+    "date": 50.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 51
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 49.9
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 52.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 53.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 52.2
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 52.9
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 50.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 51
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 52.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 48.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 36
+  },
+  {
+    "timestamp": "May-20",
+    "date": 38.3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 51.6
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 58.2
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 64.7
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 20.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 10.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 16
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 25.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 9.9
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -9.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -13.8
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -2.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": 6.6
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -8.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": -10.5
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -8.7
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 5.8
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -10.6
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -15.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -4.4
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -19.4
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -0.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 5.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -8.4
+  },
+  {
+    "timestamp": "May-20",
+    "date": -14.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -2.7
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -2.9
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -9.8
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 4.9
+  },
+  {
+    "timestamp": "May-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 3.4
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 3.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 4
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 2.4
+  },
+  {
+    "timestamp": "May-20",
+    "date": 1.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 2.4
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 25.9
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 20.3
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 23.1
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 23.3
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 23.1
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 23.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 23
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 26.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 27.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 27.5
+  },
+  {
+    "timestamp": "May-19",
+    "date": 27.3
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 27.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 26.6
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 26.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 25.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 24.6
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 24.5
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 24.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 22.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 24.6
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 23.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 24.4
+  },
+  {
+    "timestamp": "May-20",
+    "date": 25.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 26.4
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 27.3
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 27.9
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": -1.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -2.8
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -4.6
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 8.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -0.8
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -2.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -3.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -1.3
+  },
+  {
+    "timestamp": "May-19",
+    "date": -2.6
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 3.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -6.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -2.3
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -1.8
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -4.7
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -12.6
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -8.8
+  },
+  {
+    "timestamp": "May-20",
+    "date": -5.8
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 7.7
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -1.6
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -3.3
+  }],
+  
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -5.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 16.4
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -2.9
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 10.6
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -4.7
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -2.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": -3.9
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 8.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 7.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -7.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 6.9
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -6.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -32.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -16.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 24.1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -1.8
+  }
+]
+    }
+  },
+  {
+    "name": "Indonesia",
+    "flag_url": "data/flags/indonesia.png",
+    "country_image_url": "data/countries_images/indonesia.png",
+    "composite_index_score": {
+      "Sep-19": 48.9,
+      "Oct-19": 35.8,
+      "Nov-19": 45.9,
+      "Dec-19": 51.6,
+      "Jan-20": 57.7,
+      "Feb-20": 68.4,
+      "Mar-20": 52.4,
+      "Apr-20": 52.4,
+      "May-20": 59.7,
+      "Jun-20": 51.5,
+      "Jul-20": 44.2,
+      "Aug-20": 58.2,
+      "Aug-20": 66.3 
+    },
+
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 5.1
+  },
+  {
+    "timestamp": "May-19",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 3
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -5.3
+  },
+  {
+    "timestamp": "May-20",
+    "date": -5.3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -5.3
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 50.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 51.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 50.7
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 50.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 50.4
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 51.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 49.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 50.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 51.2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 50.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": 51.6
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 50.6
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 49.6
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 49
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 49.1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 47.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 48.2
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 49.5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 49.3
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 51.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 45.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 27.5
+  },
+  {
+    "timestamp": "May-20",
+    "date": 28.6
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 39.1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 46.9
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 50.8
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 19.6
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -3.1
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -3.9
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": -3.8
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -9.5
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -6.9
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -9.9
+  },
+  {
+    "timestamp": "May-19",
+    "date": -8.9
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -9.1
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": -6.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -10.1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -5.9
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -6.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -6.1
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -2.8
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 9.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -2.6
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -6.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": -29.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -10.1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -8.4
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 3.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 2.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 2.7
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 2.7
+  },
+  {
+    "timestamp": "May-20",
+    "date": 2.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 2
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 1.3
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 7.7
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 7.6
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 7.4
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 7.4
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 7.4
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 7.7
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 8
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 9.1
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 8.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 8.4
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 9
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 9
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 9
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 8.8
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 9
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 8.9
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 9.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 9.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 10.1
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 9.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 9.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": 10.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 11.1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 11.6
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 11.9
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": -2.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -1
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -2.1
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -2.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 3.4
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": -1.7
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -0.4
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -10.2
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -3.6
+  },
+  {
+    "timestamp": "May-20",
+    "date": 5.6
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -3
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -1
+  }],
+  
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": -3.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 1.8
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -3.3
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -3.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 6.7
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "May-19",
+    "date": -6.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -3
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.8
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -1.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 2.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -6.6
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -25.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -8.5
+  },
+  {
+    "timestamp": "May-20",
+    "date": 6.3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 11.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 0.4
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 2.6
+  }
+]
+    }
+  },
+  {
+    "name": "Malaysia",
+    "flag_url": "data/flags/malaysia.png",
+    "country_image_url": "data/countries_images/malaysia.png",
+    "composite_index_score": {
+      "Sep-19": 39.0,
+      "Oct-19": 41.1,
+      "Nov-19": 53.0,
+      "Dec-19": 48.0,
+      "Jan-20": 52.5,
+      "Feb-20": 60.4,
+      "Mar-20": 59.4,
+      "Apr-20": 50.4,
+      "May-20": 54.1,
+      "Jun-20": 46.3,
+      "Jul-20": 55.6,
+      "Aug-20": 58.3 
+    },
+
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 3.6
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 3.6
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 3.6
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -17.1
+  },
+  {
+    "timestamp": "May-20",
+    "date": -17.1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -17.1
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 49.7
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 51.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 51.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 49.2
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 48.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 46.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 47.9
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 47.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 47.2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 49.4
+  },
+  {
+    "timestamp": "May-19",
+    "date": 48.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 47.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 47.6
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 47.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 47.9
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 49.3
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 49.5
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 50
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 48.8
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 48.5
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 48.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 31.3
+  },
+  {
+    "timestamp": "May-20",
+    "date": 45.6
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 51
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 50
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 49.3
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 16.3
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 8.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 20.7
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 3.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": -0.3
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -7.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -3.4
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -3.7
+  },
+  {
+    "timestamp": "May-19",
+    "date": -2.9
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -6.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -2.8
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -7.1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -7.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": -4.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -1.7
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 7.7
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -11.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -29
+  },
+  {
+    "timestamp": "May-20",
+    "date": -28.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -0.3
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 0.6
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -0.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 1.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -0.2
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -2.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": -2.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -1.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -1.3
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 5.9
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 5.2
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 5.8
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 5.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 5.5
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 5.5
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 5.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 6.3
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "May-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 6.1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 6.1
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 6
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 5.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 6.3
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 6.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 6.6
+  },
+  {
+    "timestamp": "May-20",
+    "date": 6.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 6.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 6.9
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 6.9
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": -1.3
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -1
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -1.2
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -0.5
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 1.3
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -0.9
+  },
+  {
+    "timestamp": "May-19",
+    "date": -1.4
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 0.3
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -1.6
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 0.1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -0.1
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.7
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 1.6
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -3.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -1.2
+  },
+  {
+    "timestamp": "May-20",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 1.8
+  }],
+  
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": -1.1
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -2.3
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -4.9
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -1.9
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -2.3
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 2.6
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -0.5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -1.6
+  },
+  {
+    "timestamp": "May-19",
+    "date": -2.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 2.2
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -5.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -0.6
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 2.3
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 2.4
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -5
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -16.7
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -1.6
+  },
+  {
+    "timestamp": "May-20",
+    "date": 5.8
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 8.4
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 3.3
+  }
+]
+    }
+  },
+  {
+    "name": "Turkey",
+    "flag_url": "data/flags/turkey.png",
+    "country_image_url": "data/countries_images/turkey.png",
+    "composite_index_score": {
+       "Sep-19": 43.2,
+      "Oct-19": 45.7,
+      "Nov-19": 61.8,
+      "Dec-19": 35.0,
+      "Jan-20": 47.9,
+      "Feb-20": 55.8,
+      "Mar-20": 43.6,
+      "Apr-20": 25.7,
+      "May-20": 38.7,
+      "Jun-20": 41.7,
+      "Jul-20": 46.5,
+      "Aug-20": 26.6 
+    },
+
+    "datasets": {
+    "real_gdp_growth": [{
+    "timestamp": "Jul-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 2.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": -2.7
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": -2.7
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": -2.7
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": -2.6
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": -2.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -2.6
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -1.7
+  },
+  {
+    "timestamp": "May-19",
+    "date": -1.7
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -1.7
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 6.4
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -9.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": -9.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": -9.9
+  }],
+
+  "pmi_manufacturing": [{
+    "timestamp": "Jul-18",
+    "date": 49
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 46.4
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 42.7
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 44.3
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 44.7
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 44.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 44.2
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 46.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 47.2
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 46.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 45.3
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 47.9
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 46.7
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 48
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 50
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 49
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 49.5
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 49.5
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 51.3
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 52.4
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 48.1
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 33.4
+  },
+  {
+    "timestamp": "May-20",
+    "date": 40.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 53.9
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 56.9
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 54.3
+  }],
+
+  "export_growth": [{
+    "timestamp": "Jul-18",
+    "date": 11.4
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -6.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 21.9
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 12.7
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 9.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 5.8
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 11.6
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 8.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 10.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": 18.2
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": -10
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 13.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 7.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 6.1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 4.7
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 4.8
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 5.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 5.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 1.9
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -18.3
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -41.5
+  },
+  {
+    "timestamp": "May-20",
+    "date": -40.9
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 15.7
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -5.8
+  }],
+
+  "cpi_inflation": [{
+    "timestamp": "Jul-18",
+    "date": 15.9
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 17.9
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 24.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 25.2
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 21.6
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 20.3
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 20.4
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 19.7
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 19.7
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 19.5
+  },
+  {
+    "timestamp": "May-19",
+    "date": 18.7
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 15.7
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 16.7
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 15
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 9.3
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 8.6
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 10.6
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 11.8
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 12.2
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 12.4
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 11.9
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 10.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": 11.4
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 12.6
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 11.8
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 11.8
+  }],
+
+  "import_cover": [{
+    "timestamp": "Jul-18",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 4.1
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 4.9
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": 4.3
+  },
+  {
+    "timestamp": "May-19",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 4.3
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 4.4
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 4.5
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 3.9
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": 3.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": 3
+  },
+  {
+    "timestamp": "May-20",
+    "date": 3.3
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 3.1
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 2.8
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": 2.5
+  }],
+
+  "exchange_rate_movement": [{
+    "timestamp": "Jul-18",
+    "date": -3.2
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -24.1
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -6.5
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 8
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 7.9
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 0.6
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": -0.7
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 1.4
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -3.5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -5.5
+  },
+  {
+    "timestamp": "May-19",
+    "date": -4.8
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 3.8
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 2.4
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": 0.2
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": -1
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": -1.5
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 0.9
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": -2.1
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": -1.1
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -2.4
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -4.5
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -8.1
+  },
+  {
+    "timestamp": "May-20",
+    "date": -1
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 1.5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": -0.9
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -5.8
+  }],
+  
+  "stock_market_capitalization": [{
+    "timestamp": "Jul-18",
+    "date": -3.5
+  },
+  {
+    "timestamp": "Aug-18",
+    "date": -20.7
+  },
+  {
+    "timestamp": "Sep-18",
+    "date": -4.6
+  },
+  {
+    "timestamp": "Oct-18",
+    "date": 8.8
+  },
+  {
+    "timestamp": "Nov-18",
+    "date": 6.2
+  },
+  {
+    "timestamp": "Dec-18",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Jan-19",
+    "date": 4.6
+  },
+  {
+    "timestamp": "Feb-19",
+    "date": 7.6
+  },
+  {
+    "timestamp": "Mar-19",
+    "date": -5
+  },
+  {
+    "timestamp": "Apr-19",
+    "date": -8.8
+  },
+  {
+    "timestamp": "May-19",
+    "date": -11.1
+  },
+  {
+    "timestamp": "Jun-19",
+    "date": 9.5
+  },
+  {
+    "timestamp": "Jul-19",
+    "date": 11
+  },
+  {
+    "timestamp": "Aug-19",
+    "date": -2.1
+  },
+  {
+    "timestamp": "Sep-19",
+    "date": 5
+  },
+  {
+    "timestamp": "Oct-19",
+    "date": 2.9
+  },
+  {
+    "timestamp": "Nov-19",
+    "date": 8.4
+  },
+  {
+    "timestamp": "Dec-19",
+    "date": 4.2
+  },
+  {
+    "timestamp": "Jan-20",
+    "date": 9.6
+  },
+  {
+    "timestamp": "Feb-20",
+    "date": -2
+  },
+  {
+    "timestamp": "Mar-20",
+    "date": -22.8
+  },
+  {
+    "timestamp": "Apr-20",
+    "date": -3.9
+  },
+  {
+    "timestamp": "May-20",
+    "date": 7.7
+  },
+  {
+    "timestamp": "Jun-20",
+    "date": 9.5
+  },
+  {
+    "timestamp": "Jul-20",
+    "date": 8.3
+  },
+  {
+    "timestamp": "Aug-20",
+    "date": -0.4
+  }
+]
+    }
+  }
+]
