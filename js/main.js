@@ -43,7 +43,7 @@ $(function () {
     "May-20",
     "Jun-20",
     "Jul-20",
-    "Aug-20",
+    "Aug-20"
   ];
   $("#slider1").attr("min", 0);
   $("#slider1").attr("max", monthValues.length - 1);
