@@ -30,7 +30,7 @@ $(function () {
   } else {
     window.canvasRightPadding = 80;
   }
-  window.sliderToJsonDataGap = 12;
+  window.sliderToJsonDataGap = 13;
   window.monthValues = [
     "Sep-19",
     "Oct-19",
@@ -43,7 +43,7 @@ $(function () {
     "May-20",
     "Jun-20",
     "Jul-20",
-    "Aug-20"
+    "Aug-20",
   ];
   $("#slider1").attr("min", 0);
   $("#slider1").attr("max", monthValues.length - 1);
