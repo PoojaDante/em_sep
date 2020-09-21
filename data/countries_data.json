@@ -116,14 +116,7 @@
           "timestamp": "Jun-20",
           "data": 3.2
         },
-        {
-          "timestamp": "Jul-20",
-          "data": "--"
-        },
-        {
-          "timestamp": "Aug-20",
-          "data": "--"
-        }
+      
       ],
 
       "pmi_manufacturing": [
