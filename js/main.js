@@ -180,6 +180,8 @@ function renderUI(resData) {
       score: trimmedCanvasData[trimmedCanvasData.length - 1].y,
     });
   });
+  $("#lastCountry").css("font-weight", "normal");
+
   if (indiasPosition === 1) {
     $("#indiaNotAtTop").css("display", "none");
     $("#indiaAtTop").css("display", "block");
@@ -190,6 +192,15 @@ function renderUI(resData) {
       window.resData[window.resData.length - 1].name
     );
   } else {
+    if (indiasPosition === 10) {
+      $("#indiaTxt").css("display", "none");
+      $("#lastCountry").css("font-weight", "bold");
+      $("#indiaLast").css("display", "inline");
+    } else {
+      $("#indiaTxt").css("display", "inline");
+      $("#indiaLast").css("display", "none");
+    }
+
     $("#indiaNotAtTop").css("display", "block");
     $("#indiaAtTop").css("display", "none");
     $(".currentMonth").text(
